@@ -1,6 +1,6 @@
 ### I'a Tahmina Khatun 👋
 
-- 🌱 I’m currently learning web development from Programming Hero.
+- 🌱 I have done web development programming course.
 - 👯 I’m looking to collaborate on IT Company.
 - 🤔 I’m looking for help with Programmer
 - 💬 Ask me about web development
